@@ -430,8 +430,7 @@ You will receive the onProgress() callback for each new state. This is the whole
 	NFC_GET_FINALIZATION_PLAIN_TAGS,
 ```
 #### EMV Payment state machine
-
-![Document sans titre](https://user-images.githubusercontent.com/59020462/98590885-c3979d00-22cf-11eb-819c-d3139ade7dac.png)
+![Document sans titre](https://user-images.githubusercontent.com/72926974/110344739-19861280-802e-11eb-9ff3-abd751eb26d8.png)
 
 The EMV payment state machine is sequence of executing commands and tasks. Bellow you will see the different tasks used at transaction
 
